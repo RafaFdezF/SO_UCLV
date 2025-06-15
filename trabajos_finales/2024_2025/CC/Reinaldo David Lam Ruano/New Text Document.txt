@@ -1,0 +1,1 @@
+El compilador de VS Code me dejo de funcionar, captura de un playground online de C
